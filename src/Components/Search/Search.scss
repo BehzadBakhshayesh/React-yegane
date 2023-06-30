@@ -1,0 +1,14 @@
+.Search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .item {
+      margin: 0;
+    }
+  }
+}
